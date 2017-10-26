@@ -1,10 +1,10 @@
 多行注释可以用iffalse和fi包含，如下：
 
-/iffalse
+\iffalse
 多
 行
 注
 释
 内
 容
-/fi
+\fi
